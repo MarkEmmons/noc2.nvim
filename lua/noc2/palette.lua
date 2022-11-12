@@ -25,7 +25,8 @@ local colors = {
 	cursor_fg = color_map[0],
 	cursor_bg = color_map[7],
 	alt_fg    = color_map[15],
-	alt_bg    = color_map[8],
+	alt_bg    = color_map[0],
+	--alt_bg    = color_map[8],
 
 	-- 16-bit colors
 	black   = color_map[0],
